@@ -1,6 +1,4 @@
 /* Name: Chaitanya Mukesh Patel
-   ID: A15346478 
-   Email: c2patel@ucsd.edu
 */
 
 /** 
